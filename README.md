@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelkouddous El Alami</h1>
+<h1 align="center">Hi 👋, I'm Abdelkouddous ElAlami</h1>
 <h3 align="center">Full Stack Developer 📍 Based in Morocco | Studying at YouCode (Nador Campus)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelkouddousalami&label=Profile%20views&color=0e75b6&style=flat" alt="abdelkouddousalami" /> </p>
