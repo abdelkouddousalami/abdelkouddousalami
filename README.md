@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelkouddousalami" alt="abdelkouddousalami" /></a> </p>
 
-- 🔭 I’m currently working on **Game Vault**
+- 🔭 I’m currently working on **TripBuddy**
 
-- 🌱 I’m currently learning **MVC && LARAVEL**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelkouddousalami](https://github.com/abdelkouddousalami)
 
